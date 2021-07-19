@@ -1,0 +1,1 @@
+export { createMuiTheme } from './theme'
